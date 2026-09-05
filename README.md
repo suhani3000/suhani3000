@@ -1,375 +1,123 @@
 <div align="center">
 
-<pre>
-██╗  ██╗███████╗██╗     ██╗      ██╗      ██████╗
-██║  ██║██╔════╝██║     ██║      ██║     ██╔═══██╗
-███████║█████╗  ██║     ██║      ██║     ██║   ██║
-██╔══██║██╔══╝  ██║     ██║      ██║     ██║   ██║
-██║  ██║███████╗███████╗███████╗  ███████╗╚██████╔╝
-╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝  ╚══════╝ ╚═════╝
+████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
+████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
+███████████████████████████████████`.        ╙██████████████  ███████║█████╗  ██║     ██║     ██║   ██║
+████████████████████████████████▀  ¿▓▓▓▓▓▓▓▓▄/ "████████████  ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
+██████████████████████████████▀.  ▓▓▓▓▓▓▓▓▓▓▓▓   ▐██████████  ██║  ██║███████╗███████╗███████╗╚██████╔╝▄█╗
+██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓  ` ██████████  ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═╝
+██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓   ▄██████████
+▀██████████████████████████████▌  ▀▀▓▓▓▓▓▓▓▌╓╖. ████████████  ███╗   ██╗██╗ ██████╗███████╗  ████████╗ ██████╗
+█▄▀██████████████████████████████▄ ╩╦╙▀▀▀▀▀ ╣`,█████████████  ████╗  ██║██║██╔════╝██╔════╝  ╚══██╔══╝██╔═══██╗
+▄▀█▄╙█████████████████████▀▀▀▀█████▄▄ .... ,▄███████▀███████  ██╔██╗ ██║██║██║     █████╗       ██║   ██║   ██║
+██▄▀█▄╙█████████████████▀  ╪╢%╦══~╓,└ ╚▒▒▒ ╙▀|,╓╓═╤H   ▀████  ██║╚██╗██║██║██║     ██╔══╝       ██║   ██║   ██║
+█▀▀▀-▀█▌▄▀█████████████   ║▒▒▒▒▒▒▒▒▒▒╢╦ ╘ -╣▒▒▒▒▒▒▒▒▒╢╕   ▀█  ██║ ╚████║██║╚██████╗███████╗     ██║   ╚██████╔╝
+██▄▀██└║▄▄▄████████████▄          ═╕╕╕╕╕═╕═══════       ▄▄▄▄  ╚═╝  ╚═══╝╚═╝ ╚═════╝╚══════╝     ╚═╝    ╚═════╝
+████▄▀█▌║███  ████████▌         ╕   ╩▒▒▒▒▒▒▒▒▒Ñ          ███
+██████▌Ö▓▌   ▀██████████`╔▒▒╣ █ ▒▒m   ╚▒╢▒▒▒╩ -╣▒ ▌ ▒▒▒ ████  ███╗   ███╗███████╗███████╗████████╗  ██╗   ██╗ ██████╗ ██╗   ██╗
+████ -"" ∞╙,▀.╙▀███████╜ ▒▒▒ ▄█ Ñ   -   S.  ═▒▒▒▒ █ ║▒▒╕└███  ████╗ ████║██╔════╝██╔════╝╚══██╔══╝  ╚██╗ ██╔╝██╔═══██╗██║   ██║
+████████▄ -«   ∞▄.▀",╓═     ╒██   ═╣▒▒ `Ñ╛        █▌ ▒▒▒ ███  ██╔████╔██║█████╗  █████╗     ██║      ╚████╔╝ ██║   ██║██║   ██║
+█████████▌ º     ╤╣▒╣╩^",▄▄███▀  ▒▒╣"     ''''''' ▀▀     `██  ██║╚██╔╝██║██╔══╝  ██╔══╝     ██║       ╚██╔╝  ██║   ██║██║   ██║
+█████████  ▌       ▄▄████████─         ---------    L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝
+▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=CCCCCC&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Always+Building+Something+New" alt="Typing SVG" />
 
-                 N E R D Y   F R I E N D
-</pre>
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  $ whoami                                                    │
-│                                                              │
-│  suhani@satavista:~$                                       │
-│  Software Engineer in progress                              │
-│                                                              │
-│  > building backends                                        │
-│  > designing systems                                        │
-│  > breaking things                                           │
-│  > fixing them                                               │
-│  > learning how the machine actually works                  │
-└──────────────────────────────────────────────────────────────┘
-```
-
-<a href="https://github.com/suhani3000">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/suhani-s-s-a2a18b330/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/suhani3000/">
-<img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-<a href="mailto:suhanisatav81@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <p align="center">
+    <a href="https://github.com/suhani3000" target="_blank">
+      <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" />
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/suhani-s-s-a2a18b330/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="mailto:suhanisatav81@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://leetcode.com/u/suhani3000/" target="_blank">
+      <img src="https://api.iconify.design/simple-icons:leetcode.svg?color=%23aaaaaa" width="48" height="48" style="background:#121212; padding:10px; border-radius:12px; box-sizing:border-box; vertical-align:middle;" alt="LeetCode" />
+    </a>
+  </p>
 
 </div>
 
 ---
 
-# `~/about`
+## 📖 About Me
 
-```text
-┌────────────────────────────────────────────────────────────┐
-│                                                            │
-│  🎓 Computer Engineering student @ PICT                   │
-│  💻 Full-Stack Developer                                  │
-│  ⚙️  Backend & Systems enthusiast                         │
-│  🧠 DSA + Core CS                                         │
-│  ☁️  Learning Cloud & Distributed Systems                 │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
-
-I'm a Computer Engineering student who enjoys understanding **how software works underneath the abstractions**.
-
-I build full-stack applications, work with databases and APIs, and am increasingly interested in the engineering problems behind scalable systems.
-
-Currently, I'm going deeper into:
-
-```text
-Backend Engineering
-        ↓
-Databases & Caching
-        ↓
-Distributed Systems
-        ↓
-Cloud & Infrastructure
-        ↓
-System Design
-```
-
-I also spend a considerable amount of time solving **DSA problems** and strengthening my **core CS fundamentals**.
+- 🎓 **Computer Engineering student** at Pune Institute of Computer Technology &nbsp;·&nbsp; Class of 2028
+- 💻 **Full-stack developer** — comfortable across frontend, backend, and databases
+- 🤖 Growing focus on **AI/ML** and how it complements backend engineering
+- 📚 Actively strengthening **DSA and core CS fundamentals**
+- 🌱 Enjoy learning by building — always exploring something new
+- 💡 Care about writing clean, maintainable code over quick hacks
 
 ---
 
-# `~/engineering-stack`
+## 💻 Technical Expertise
 
-### Languages
+### Languages & Frontend
+<img src="https://skillicons.dev/icons?i=java,cpp,nextjs&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,typescript&theme=dark" />
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,prisma,redis&theme=dark" />
 
-### Frontend
+### Cloud, DevOps & Tools
+<img src="https://skillicons.dev/icons?i=aws,vercel,docker,githubactions,git&theme=dark" /> <img src="https://img.shields.io/badge/Render-2f2f2f?style=for-the-badge&logo=render&logoColor=white" />
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring&theme=dark" />
-
-### Databases & Data
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma&theme=dark" />
-
-### Cloud / DevOps / Tools
-
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,linux&theme=dark" />
-
-### AI / ML
-
-<img src="https://skillicons.dev/icons?i=python,sklearn,pytorch&theme=dark" />
-
-<img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=white"/>
+### AI / ML & Data
+<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" /> <img src="https://img.shields.io/badge/NumPy-2f2f2f?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-2f2f2f?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-2f2f2f?style=for-the-badge&logo=Matplotlib&logoColor=white" />
 
 ---
 
-# `~/what-i-care-about`
-
-```text
-┌───────────────────────────┬───────────────────────────┐
-│ Backend Engineering       │ Distributed Systems       │
-├───────────────────────────┼───────────────────────────┤
-│ Database Design            │ Caching                   │
-├───────────────────────────┼───────────────────────────┤
-│ API Design                 │ System Design             │
-├───────────────────────────┼───────────────────────────┤
-│ Reliability                │ Scalability               │
-├───────────────────────────┼───────────────────────────┤
-│ Cloud Infrastructure      │ Clean Architecture        │
-└───────────────────────────┴───────────────────────────┘
-```
-
----
-
-# `~/featured-projects`
-
-## 🏠 StayNest
-
-**Full-stack property booking platform**
-
-A production-oriented booking application built around real-world backend concerns rather than just CRUD functionality.
-
-### Engineering
-
-```text
-Frontend        → React / Next.js / Tailwind
-Backend         → REST APIs
-Database        → PostgreSQL
-ORM             → Prisma
-Cache           → Redis
-Payments        → Razorpay
-Infrastructure  → Docker
-CI/CD           → GitHub Actions
-```
-
-### Things I'm exploring through the project
-
-* Authentication & authorization
-* Relational database modelling
-* Caching strategies
-* Payment workflows
-* Failure handling
-* API architecture
-* Asynchronous processing
-* Deployment & CI/CD
-
----
-
-## 🤖 AcademiaAI
-
-**Multimodal Retrieval-Augmented Generation system**
-
-A multimodal AI application that combines document retrieval, embeddings and vision-based understanding.
-
-```text
-Documents / Images
-        ↓
-Embedding Pipeline
-        ↓
-Vector Database
-        ↓
-Retriever
-        ↓
-LLM / Vision Model
-        ↓
-Context-aware Response
-```
-
-### Stack
-
-`LangChain` · `Hugging Face` · `Gemini Vision` · `PostgreSQL` · `pgvector` · `Llama`
-
----
-
-## ☀️ Solar Energy Prediction
-
-Machine-learning based solar energy prediction system using weather and historical energy data.
-
-### Stack
-
-`Python` · `Pandas` · `XGBoost` · `NumPy` · `Matplotlib`
-
-Focus areas:
-
-* Feature engineering
-* Model tuning
-* Regression
-* Dataset analysis
-* Model evaluation
-
----
-
-# `~/systems-lab`
-
-I'm particularly interested in understanding systems by **building smaller versions of them**.
-
-```text
-📦 Things I'm learning / experimenting with
-
-├── Redis
-├── Rate Limiter
-├── Job Queue
-├── URL Shortener
-├── Caching Systems
-├── Authentication Service
-├── Notification Service
-├── File Storage
-└── Distributed System Patterns
-```
-
-The goal isn't just to use these technologies.
-
-It's to understand **why they exist, what problem they solve, and what trade-offs they introduce.**
-
----
-
-# `~/computer-science`
-
-```text
-              ┌───────────────┐
-              │  Computer     │
-              │   Science     │
-              └───────┬───────┘
-                      │
-       ┌──────────────┼──────────────┐
-       ↓              ↓              ↓
-     DSA             DBMS            OS
-       │              │              │
-       ↓              ↓              ↓
-  Algorithms       Databases       Processes
-                                   Threads
-                                    Memory
-
-       ┌──────────────┼──────────────┐
-       ↓              ↓              ↓
-      OOP             CN         System Design
-```
-
-Currently strengthening:
-
-`DSA` · `OOP` · `DBMS` · `Operating Systems` · `Computer Networks` · `System Design`
-
----
-
-# `~/problem-solving`
+## 🏆 Programming Stats
 
 <div align="center">
-
-<img src="https://leetcard.jacoblin.cool/suhani3000?theme=dark&font=Ubuntu&ext=contest" alt="LeetCode Stats" width="495"/>
-
-</div>
-
-<br>
-
-My preferred problem-solving language:
-
-```text
-C++
-```
-
-I focus on understanding the underlying pattern rather than memorizing solutions.
-
----
-
-# `~/github`
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=suhani3000&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888&stroke=0D1117" height="220" alt="GitHub Streak"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=suhani3000&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=suhani3000&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-
+  <img src="https://leetcard.jacoblin.cool/suhani3000?theme=dark&font=Ubuntu&ext=contest" alt="LeetCode Stats" width="495" />
 </div>
 
 ---
 
-# `~/activity`
+## 📊 GitHub Analytics
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=suhani3000&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888&stroke=0D1117" height="220" alt="streak graph" />
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suhani3000&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<p align="center">
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=suhani3000&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=suhani3000&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 
+---
+
+## 📈 GitHub Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suhani3000&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
 
-# `~/currently`
-
-```text
-$ cat learning.txt
-
-[██████████████████░░] Backend Engineering
-[████████████████░░░░] System Design
-[███████████████░░░░░] Distributed Systems
-[██████████████░░░░░░] Cloud Infrastructure
-[████████████████░░░░] DSA
-[███████████░░░░░░░░░] AI / ML Systems
-```
-
----
-
-# `~/philosophy`
-
-> `First understand the abstraction.`
->
-> `Then understand what is underneath it.`
-
-I enjoy going one layer deeper:
-
-```text
-API
- ↓
-Service
- ↓
-Database
- ↓
-Cache
- ↓
-Network
- ↓
-Operating System
- ↓
-Hardware
-```
-
-Because the interesting engineering problems usually start **below the surface**.
-
----
-
 <div align="center">
+  <p>
+    <a href="https://github.com/suhani3000" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-2f2f2f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://www.linkedin.com/in/suhani-s-s-a2a18b330/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-2f2f2f?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:suhanisatav81@gmail.com">
+      <img src="https://img.shields.io/badge/Email-2f2f2f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://leetcode.com/u/suhani3000/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-2f2f2f?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+    </a>
+  </p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=suhani3000&label=Profile%20Views&color=2f2f2f&style=flat-square" alt="Profile Views" />
+  </p>
 
-```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│        "It works" is the beginning, not the end.     │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
-
-### `hello, nerdy friend 👋`
-
-<a href="https://github.com/suhani3000">
-<img src="https://img.shields.io/badge/Explore_my_repositories-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=suhani3000&label=PROFILE%20VIEWS&color=0D1117&style=flat-square" alt="Profile Views"/>
-
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=true&color=0:0d1117,100:434343" />
 </div>
