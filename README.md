@@ -1,5 +1,8 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:434343&height=180&section=header&text=Hi,%20I'm%20Suhani%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/> <img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" height="60%">
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:434343&height=180&section=header&text=Hi,%20I'm%20Suhani%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <br />
+  <img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" height="60%">
+  <br />
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=CCCCCC&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Always+Building+Something+New" alt="Typing SVG" />
 
   <p align="center">
@@ -14,12 +17,7 @@
     <a href="mailto:suhanisatav81@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
     </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://leetcode.com/u/suhani3000/" target="_blank">
-      <img src="https://api.iconify.design/simple-icons:leetcode.svg?color=%23aaaaaa" width="48" height="48" style="background:#121212; padding:10px; border-radius:12px; box-sizing:border-box; vertical-align:middle;" alt="LeetCode" />
-    </a>
   </p>
-
 </div>
 
 ---
@@ -51,14 +49,6 @@
 
 ---
 
-## 🏆 Programming Stats
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/suhani3000?theme=dark&font=Ubuntu&ext=contest" alt="LeetCode Stats" width="495" />
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -75,7 +65,9 @@
 ## 📈 GitHub Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suhani3000&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" />
+  <a href="https://github.com/suhani3000">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=suhani3000&theme=github-dark&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
+  </a>
 </div>
 
 ---
@@ -90,9 +82,6 @@
     </a>
     <a href="mailto:suhanisatav81@gmail.com">
       <img src="https://img.shields.io/badge/Email-2f2f2f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://leetcode.com/u/suhani3000/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-2f2f2f?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
     </a>
   </p>
   <p>
