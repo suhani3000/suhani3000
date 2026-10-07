@@ -60,17 +60,7 @@
   <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=suhani3000&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
----
 
-## 📈 GitHub Activity Graph
-
-<div align="center">
-  <a href="https://github.com/suhani3000">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=suhani3000&theme=github-dark&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
-  </a>
-</div>
-
----
 
 <div align="center">
   <p>
